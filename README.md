@@ -22,9 +22,11 @@ Tabber is a responsive, modern front-end landing web application simulating a so
 
 ## Lessons Learned
   1. Creating a basic yet responsive user interface Bootstrap 5, HTML5, and CSS3
-  2. Experienced the full development process in a team environment by:
-     * prototyping and wireframing the visual design through Figma
-     * collaborating on a single codebase through pull requests, code review and resolving code conflicts on GitHub
+  2. Experienced the development process by:
+     * Prototyping and wireframing the visual design through Figma
+     * Coding the front-end HTML5 structure and CSS3 styling, looking at other modern websites such as Tinder as inspiration
+     * Importing Bootstrap 5 into the project, reading the documentation to fully utilize Bootstrap 5 library features
+     * Code review and resolving code conflicts on GitHub
 
 ## Live Site
 * The live version of the app can be viewed [here](https://dylan-n-tran.github.io/Tabber/).
