@@ -29,4 +29,4 @@ Tabber is a responsive, modern front-end landing web application simulating a so
      * Code review and resolving code conflicts on GitHub
 
 ## Live Site
-* The live version of the app can be viewed [here](https://dylan-n-tran.github.io/Tabber/).
+* The live version of the app can be viewed [here](https://dyl-tran.github.io/Tabber/).
