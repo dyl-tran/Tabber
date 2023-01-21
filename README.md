@@ -1,4 +1,4 @@
-# Tabber
+# 🐱 Tabber
 
 Tabber is a responsive, modern front-end landing web application simulating a social application for cats
 
